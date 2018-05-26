@@ -3,3 +3,5 @@ create DATABASE Hospital;
 GO
 USE Hospital;
 GO
+
+/*Crear tablas*/
